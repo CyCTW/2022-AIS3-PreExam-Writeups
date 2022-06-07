@@ -11,20 +11,20 @@
 - Rank: 21 / 292
 - Solved Problem:
     - Crypto
-        - SC
-        - Fast Cipher
+        - [SC](./crypto/SC)
+        - [Fast Cipher](./crypto/fast-cipher)
     - Web
-        - Poking Bear (First Blood :heart_eyes: )
-        - Simple file uploader
-        - The Best Login UI
-        - Cat Emoji Database
+        - [Poking Bear (First Blood :heart_eyes: )](./web/Poking-bear)
+        - [Simple file uploader](./web/Simple-file-uploader)
+        - [The Best Login UI](./web/The-best-login-ui)
+        - [Cat Emoji Database](./web/Cat-Emoji-Database)
     - Reverse
-        - Time Management
-        - Calculator
+        - [Time Management](./revrse/time-management)
+        - [Calculator](./revrse/caculator)
     - Pwn
         - SAAS-Crash
-        - Bof2win
-        - Give Me SC
+        - [Bof2win](./pwn/pwnbox/bof2win)
+        - [Give Me SC](./pwn/pwnbox/give-me-sc)
 
 
 ## Review
